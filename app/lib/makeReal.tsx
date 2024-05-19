@@ -3,7 +3,7 @@ import { getSelectionAsText } from './getSelectionAsText'
 import { getHtmlFromOpenAI } from './getHtmlFromOpenAI'
 import { blobToBase64 } from './blobToBase64'
 import { addGridToSvg } from './addGridToSvg'
-import { PreviewShape } from './PreviewShape/PreviewShape'
+import { PreviewShape } from '../PreviewShape/PreviewShape'
 
 export async function makeReal(editor: Editor, apiKey: string) {
 	// Get the selected shapes (we need at least one)
