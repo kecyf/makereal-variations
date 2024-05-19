@@ -1,7 +1,8 @@
-# Make Real
+# Hello there
 
-Use this repo as a template to create Make Real style apps like
-[makereal.tldraw.com](https://makereal.tldraw.com). To get started:
+I forked this repo from [makereal.tldraw.com](https://makereal.tldraw.com). 
+
+To get started:
 
 1. Use the template and clone your new repo to your computer
 2. Run `npm install` to install dependencies
